@@ -3,46 +3,52 @@ My first repository/project, a collection of stock market data projects that inc
 
 
 
-Day 1 (8/19/2025): Stock Price Visualization
-GOAL(S):
+## Day 1 (8/19/2025): Stock Price Visualization
 
-Create a stock price visualization tool that can be used with user-inputted ticker symbols and start/end dates for data analysis. The data will be visualized through data tables and graphs.
-COMPLETED TASK(S):
+**GOAL(S):**
+- Create a stock price visualization tool that can be used with user-inputted ticker symbols and start/end dates for data analysis. The data will be visualized through data tables and graphs.
 
-Created a proper input system for the ticker symbol
-Created a proper input system for the start/end date
-Coded a solution for errors in the start/end date format
-Print two data tables for the first 10 days and last 10 days, which include columns for stock analysis
-Graph the closing price with an automatically adjusted scale depending on the date disparity
-FIXE(S) NEEDED / NEXT GOAL(S):
+**COMPLETED TASK(S):**
+- Created a proper input system for the ticker symbol
+- Created a proper input system for the start/end date
+- Coded a solution for errors in start/end date format
+- Print two data tables for the first 10 days and last 10 days, which include columns for stock analysis
+- Graph the closing price with an automatically adjusted scale depending on date disparity
 
-Dates outside the range of the start/end date cause the program to break
-Short date ranges (within 10 days) cause issues with the tables and graph
-
-
-
-Day 2 (8/20/2025): Stock Price Visualization
-GOAL(S):
-
-Fix issues in the previous program, while adding new features such as error messages for invalid starting dates (holidays, weekends)
-COMPLETED TASK(S):
-
-Import tools to check for holiday/weekend, and prevent starting dates from being a holiday/weekend
-Coded a solution for errors when the starting date and ending date are the same
-Coded a solution for non-alphabetical inputs for the ticker (excluding "." and "")
-Date ranges under 5 days and within 730 days from the current date will have an interval of 1 hour
-Row numbers in the table change depending on the date range
-Error message for empty data returns
-FIX(ES) NEEDED / NEXT GOAL(S):
-
-Create comparison options and multivariable graphs
-End date holiday/weekend checks may be optimal for this program
-Date and time are creating issues within the graphs
-Data for date ranges less than 5 days and more than 730 days old from the current date is very lackluster
+**FIXE(S) NEEDED / NEXT GOAL(S):**
+- Dates outside the range of the start/end date cause the program to break
+- Short date ranges (within 10 days) cause issues with the tables and graph
 
 
 
-Day 3 (): Stock Price Visualization
-GOAL(S):
-COMPLETED TASK(S):
-FIX(ES) NEEDED / NEXT GOAL(S):
+## Day 2 (8/20/2025): Stock Price Visualization
+
+**GOAL(S):**
+- Fix issues in the previous program, while adding new features such as error messages for invalid starting dates (holidays, weekends)
+
+**COMPLETED TASK(S):**
+- Import tools to check for holiday/weekend, and prevent starting dates from being a holiday/weekend
+- Coded a solution for errors when the starting date and ending date are the same
+- Coded a solution for non-alphabetical inputs for the ticker (excluding "." and "")
+- Date ranges under 5 days and within 730 days from the current date will have an interval of 1 hour
+- Row numbers in the table change depending on the date range
+- Error message for empty data returns
+
+**FIX(ES) NEEDED / NEXT GOAL(S):**
+- Create comparison options and multivariable graphs
+- End date holiday/weekend checks may be optimal for this program
+- Date and time are creating issues within the graphs
+- Data for date ranges less than 5 days and more than 730 days old from the current date is very lackluster
+
+
+
+## Day 3 (): Stock Price Visualization
+
+**GOAL(S):**
+- 
+
+**COMPLETED TASK(S):**
+- 
+
+**FIX(ES) NEEDED / NEXT GOAL(S):**
+-
