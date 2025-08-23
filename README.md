@@ -42,13 +42,19 @@ My first repository/project, a collection of stock market data projects that inc
 
 
 
-## Day 3 (): Stock Price Visualization
+## Day 3 (8/23/2025): Stock Price Visualization
 
 **GOAL(S):**
-- 
+- Implement end date checks and create a more organized method of scaling. Add comparison/multivariable options if time allows.
 
 **COMPLETED TASK(S):**
-- 
+- Programmed several checks to ensure date inputs are always valid (ex. starting date cannot be after ending date)
+- Improved interval/scaling system for more accurate graphs based on the date range
+- Implemented ending date checks for weekends and/or holidays
+- Program now prints separate graphs for each value (Closing price, high, low, opening price, and trading volume)
+- Programmed comparison graphs for up to three tickers
+- Overall table and graph formatting updated
+- Code was revamped for an easier-to-read, more efficient program
 
 **FIX(ES) NEEDED / NEXT GOAL(S):**
--
+- Start on a new project
